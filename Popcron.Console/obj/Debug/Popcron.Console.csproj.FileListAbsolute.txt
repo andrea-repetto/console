@@ -1,6 +1,0 @@
-C:\Users\phill\source\repos\Popcron.Console\Popcron.Console\bin\Debug\Popcron.Console.dll
-C:\Users\phill\source\repos\Popcron.Console\Popcron.Console\bin\Debug\Popcron.Console.pdb
-C:\Users\phill\source\repos\Popcron.Console\Popcron.Console\obj\Debug\Popcron.Console.csprojAssemblyReference.cache
-C:\Users\phill\source\repos\Popcron.Console\Popcron.Console\obj\Debug\Popcron.Console.csproj.CoreCompileInputs.cache
-C:\Users\phill\source\repos\Popcron.Console\Popcron.Console\obj\Debug\Popcron.Console.dll
-C:\Users\phill\source\repos\Popcron.Console\Popcron.Console\obj\Debug\Popcron.Console.pdb
