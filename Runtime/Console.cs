@@ -216,8 +216,9 @@ public class Console : MonoBehaviour
         object result = await Parser.Run(command);
         if (result == null) return;
 
-        if (result is Exception exception)
+        if (result is Exception)
         {
+            Exception exception = result as Exception;
             Error(exception.Message + "\n" + exception.InnerException.Message + "\n" + exception.InnerException.StackTrace);
         }
         else
